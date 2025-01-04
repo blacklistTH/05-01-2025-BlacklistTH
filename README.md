@@ -1,20 +1,8 @@
-# 05-01-2025-BlacklistTH
 # VesperV 
-
-<div align="center">
-  <img src="https://raw.githubusercontent.com/vesperv/vesperv/main/assets/logo.png" alt="VesperV Logo" width="200"/>
-  <br/>
-  <a href="https://discord.gg/vesperv">
-    <img src="https://img.shields.io/badge/Discord-Join%20Us-7289DA?style=for-the-badge&logo=discord&logoColor=white" alt="Discord"/>
-  </a>
-</div>
 
 ## รายละเอียด VesperV
 
-<div align="center">
-  <img src="https://raw.githubusercontent.com/vesperv/vesperv/main/assets/preview.png" alt="VesperV Preview" width="600"/>
-</div>
-
+```
 ที่อยู่ 1
 
   ชื่อ: พิมพร สิทธิมะโน
@@ -80,3 +68,4 @@
   รหัสไปรษษณีย์: 21130
   รหัสอำเภอ: TH2102
   รหัสตำบล: TH210201
+```
